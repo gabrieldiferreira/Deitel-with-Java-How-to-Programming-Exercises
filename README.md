@@ -14,11 +14,13 @@
   <li>Improve problem-solving and object-oriented programming skills.</li>
 </ul>
 
-<h2>📂 Structure</h2>
+<h2>📂 Project Structure</h2>
 <p>
-Each folder contains exercises and solutions for a specific chapter, 
-starting from the basics of Java syntax up to advanced topics.
+  All source code is inside the <code>src/</code> folder, 
+  organized into Java packages.  
+  Each package contains exercises and examples from the book.  
 </p>
+
 
 <h2>🚀 Motivation</h2>
 <p>
